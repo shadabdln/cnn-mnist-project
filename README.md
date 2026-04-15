@@ -19,4 +19,4 @@ This project is based on CNN for image classification using MNIST dataset.
 Model achieves high accuracy on handwritten digits.
 
 ## Author
-Your Name
+Shadab Ansari
